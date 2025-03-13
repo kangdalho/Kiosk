@@ -8,8 +8,8 @@
 📁**프로젝트 구조**
 ```
 📦Kiosk
-📄Main.java
 📄Kiosk.java
+📄Main.java
 📄Meun.java
 📄MeunItem.java
 📄README.md
